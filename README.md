@@ -27,3 +27,6 @@ This project documents the setup of a Proxmox Virtual Environment (VE) server us
 
 ## Outcome
 A fully functional Proxmox home lab server capable of hosting multiple virtual machines for testing, learning, and future projects such as Windows Server, Active Directory, and cybersecurity labs.
+
+<img width="860" height="712" alt="image" src="https://github.com/user-attachments/assets/0bd345e7-8781-423e-86e3-8f276535e770" />
+
