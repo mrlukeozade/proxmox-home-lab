@@ -1,3 +1,5 @@
+<img width="960" height="152" alt="Logo_Proxmox svg" src="https://github.com/user-attachments/assets/d89c2c01-1d67-470a-ae02-037a7000cfff" />
+
 # Proxmox Home Lab Server
 
 ## Overview
@@ -28,5 +30,4 @@ This project documents the setup of a Proxmox Virtual Environment (VE) server us
 ## Outcome
 A fully functional Proxmox home lab server capable of hosting multiple virtual machines for testing, learning, and future projects such as Windows Server, Active Directory, and cybersecurity labs.
 
-<img width="960" height="152" alt="Logo_Proxmox svg" src="https://github.com/user-attachments/assets/d89c2c01-1d67-470a-ae02-037a7000cfff" />
 
